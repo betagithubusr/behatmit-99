@@ -1,8 +1,56 @@
-# Một danh sách các số nguyên
-numbers = [1, 2, 3, 4, 5]
-
-# Sử dụng hàm sum để tính tổng các số trong danh sách
-total = sum(numbers)
-
-print("Danh sách các số:", numbers)
-print("Tổng của các số trong danh sách là:", total)
+{
+  "name": "behatmit-99",
+  "version": "1.1.4",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/betagithubusr/behatmit-99.git"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-core": "1.7.0",
+    "tslib": "^1.11.1",
+    "sum-binhan": "1.0.3",
+    "binh-an2015": "1.0.3",
+    "hoadainhan-88": "1.0.3"
+    },
+ "homepage": "https://github.com/betagithubusr/",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+     },
+  "devDependencies": {
+    "@tensorflow/tfjs-node": "1.7.0",
+    "@types/jasmine": "^3.5.9",
+    "@types/node": "^13.9.2",
+    "canvas": "2.6.1",
+    "jasmine": "^3.5.0",
+    "jasmine-core": "^3.5.0",
+    "karma": "^4.4.1",
+    "karma-chrome-launcher": "^3.1.0",
+    "karma-jasmine": "^3.1.1",
+    "karma-typescript": "^5.0.1",
+    "rollup": "^2.1.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-typescript2": "^0.26.0",
+    "rollup-plugin-uglify": "^6.0.4",
+    "ts-node": "^8.7.0",
+    "typescript": "^3.8.3"
+  },
+  "publishConfig": {
+  "@tinhdowoss:registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/tinhdowoss/tinhdv-face-api.git"
+  }
+  ],
+  "author": "betagithubusr",
+  "license": "MIT"
+}
