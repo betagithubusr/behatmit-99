@@ -9,7 +9,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/betagithubusr/behatmit-99.git"
-  },
+    result = 10 + 1000000000
+print("Kết quả của phép tính là:", result)
+Kết quả của phép tính là: 1000000010
+},
   "dependencies": {
     "@tensorflow/tfjs-core": "1.7.0",
     "tslib": "^1.11.1",
