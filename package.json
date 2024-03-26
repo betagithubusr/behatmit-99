@@ -1,32 +1,8 @@
-{
-  "name": "behatmit-99",
-  "version": "1.0.4",
-  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/betagithubusr/behatmit-99.git"
-    result = 10 + 1000000000
-print("Kết quả của phép tính là:", result)
-Kết quả của phép tính là: 1000000010
-},
-  "dependencies": {
-    "@tensorflow/tfjs-core": "1.7.0",
-    "tslib": "^1.11.1",
-    "sum-binhan": "1.0.3",
-    "binh-an2015": "1.0.3",
-    "hoadainhan-88": "1.0.3"
-    },
- "homepage": "https://github.com/betagithubusr/",
-  "keywords": [
-    "sum",
-    "add",
-    "tong",
-    "cong"
-  ],
-  "author": "betagithubusr",
-  "license": "MIT"
-}
+# Một danh sách các số nguyên
+numbers = [1, 2, 3, 4, 5]
+
+# Sử dụng hàm sum để tính tổng các số trong danh sách
+total = sum(numbers)
+
+print("Danh sách các số:", numbers)
+print("Tổng của các số trong danh sách là:", total)
